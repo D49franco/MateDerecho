@@ -1,5 +1,7 @@
-# MateDerecho
+# Matemáticas para Derecho
 
 **David Andrés Franco Quintero**
 
-Archivos de MateDerecho relacionados
+**Universidad Externado de Colombia**
+
+Aquí se encuentran algunos archivos relacionados con la materia Matemáticas para Derecho
