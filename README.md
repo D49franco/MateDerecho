@@ -13,4 +13,6 @@ Clase 1: Presentación de la materia
 
 [Clase 2: Porcentajes, relaciones y variables](Clase2.html)
 
+[Clase 3: Razón de cambio y funciones](Clase3.html)
+
 [Clase 23: Juegos contra la Naturaleza y Valor Esperado](Clase23.html)
