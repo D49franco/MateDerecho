@@ -15,4 +15,6 @@ Clase 1: Presentación de la materia
 
 [Clase 3: Razón de cambio y funciones](Clase3.html)
 
+[Clase 5: Oferta y Demanda](Clase5.html)
+
 [Clase 23: Juegos contra la Naturaleza y Valor Esperado](Clase23.html)
