@@ -8,6 +8,8 @@ Aquí se encuentran algunos archivos relacionados con la materia Matemáticas pa
 
 [Mi primer ejemplo interactivo](Ejemplo1.html)
 
+[Sistemas de ecuaciones lineales](Sistemas_de_ecuaciones_lineales.html)
+
 ## CLASES
 Clase 1: Presentación de la materia
 
