@@ -10,6 +10,8 @@ Aquí se encuentran algunos archivos relacionados con la materia Matemáticas pa
 
 [Sistemas de ecuaciones lineales](Sistemas_de_ecuaciones_lineales.html)
 
+[Asesoramiento Pitágoras MateDerecho](pitagoras.html)
+
 ## CLASES
 Clase 1: Presentación de la materia
 
