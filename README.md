@@ -8,7 +8,7 @@ Aquí se encuentran algunos archivos relacionados con la materia Matemáticas pa
 
 [Mi primer ejemplo interactivo](Ejemplo1.html)
 
-[Aplicativo "Buscador de convenios"](Aplicativos_ConveniosCol.html)
+[Aplicativo "Buscador de convenios"](Aplicativo_ConveniosCol.html)
 
 [Sistemas de ecuaciones lineales](Sistemas_de_ecuaciones_lineales.html)
 
