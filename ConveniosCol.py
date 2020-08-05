@@ -8,7 +8,7 @@ from ipywidgets import interact, interactive, Layout
 display(HTML("<H1>@ConveniosCol:</H1><br><p>El siguiente aplicativo muestra los convenios que tiene determinado establecimiento. Puedes buscar por convenio o por establecimiento.</p>"))
 display(HTML("Hecho por David Andrés Franco Quintero"))
 
-df=pd.DataFrame(pd.read_excel("matriz_fidela.xlsx",encoding="latin1"))
+df=pd.DataFrame(pd.read_excel("matriz_fidela.xlsx"))
 establecimientos=list(df["ESTABLECIMIENTOS"])
 convenios=list(df.columns)
 convenios.remove("ESTABLECIMIENTOS")
