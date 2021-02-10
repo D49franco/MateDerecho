@@ -14,9 +14,9 @@ Aquí se encuentran algunos archivos relacionados con la materia Matemáticas pa
 
 [Asesoramiento Pitágoras MateDerecho](pitagoras.html)
 
-[Temario 1A y 1B](TEMARIO 1A Y 1B.pdf)
+#[Temario 1A y 1B](TEMARIO 1A Y 1B.pdf)
 
-[Temario 1C](TEMARIO 1C.pdf)
+#[Temario 1C](TEMARIO 1C.pdf)
 
 ## CLASES
 Clase 1: Presentación de la materia
