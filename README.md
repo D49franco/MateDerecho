@@ -12,7 +12,7 @@ Aquí se encuentran algunos archivos relacionados con la materia Matemáticas pa
 
 [Sistemas de ecuaciones lineales](Sistemas_de_ecuaciones_lineales.html)
 
-[Asesoramiento Pitágoras MateDerecho](pitagoras2.html)
+[Asesoramiento Pitágoras MateDerecho](pitagoras2.pdf)
 
 #[Temario 1A y 1B](TEMARIO 1A Y 1B.pdf)
 
